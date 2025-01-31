@@ -1,4 +1,4 @@
-# MERN_STACK_PROJECT #ScribeScholer
+# MERN_STACK_PROJECT #StudyNotion
 This project is a full-stack web application built using the MERN (MongoDB, Express.js, React, and Node.js) stack. It serves as a comprehensive platform for creating, managing, and delivering educational courses and lectures.
 
 Features:
